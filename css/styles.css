@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(255, 192, 203, 0.308);
+}
+
+nav {
+    background: #b8e1ec;
+}
+
+
+lead {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+.card {
+    height: 250px;
+    width: 100%;
+    position: relative;
+
+}
+
+.footer {
+    background-color: #f8a3062d;
+    margin: 30px  auto 0px auto;
+    padding: 20px 0px; 
+}
+
+.card{
+    height: 500px;
+}
+.card-img-top {
+    padding-top: 20px;
+    height: 20rem;
+    object-fit: cover;
+}
+
+.card:hover{
+    box-shadow: 0 1px 5px 5px #cccccc;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px; 
+}

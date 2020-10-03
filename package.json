@@ -1,0 +1,21 @@
+{
+  "name": "e-com",
+  "version": "1.0.0",
+  "description": "e-com assignment",
+  "main": "index.html",
+
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Shaik Althaf Hussain",
+  "license": "ISC"
+}
